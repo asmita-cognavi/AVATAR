@@ -1,0 +1,288 @@
+{
+    "career_interests": "The student is exploring opportunities in robotics, sustainable energy, and product design, aiming to leverage their Mechanical Engineering background from IIT Delhi. They are particularly fascinated by the intersection of mechanical engineering with software and AI.",
+    "work_experience": [
+        {
+            "work_experience_id": null,
+            "job_title": "Research Assistant",
+            "employer": "Professor Sharma, IIT Delhi",
+            "location": "Delhi, India",
+            "start_month": 6,
+            "start_year": 2022,
+            "end_month": 8,
+            "end_year": 2022,
+            "currently_working": false,
+            "employment_type": "internship",
+            "work_description": "- Assisted with data collection and analysis for a project on advanced composite materials, contributing to a deeper understanding of advanced materials in mechanical engineering.\n\n- Conducted comprehensive literature reviews to support research objectives and inform project direction.\n\n- Prepared presentations for conferences, effectively communicating research findings to diverse audiences.",
+            "work_accomplishment": "Contributed to a research project that enhanced understanding of advanced materials in mechanical engineering.",
+            "work_skills": [
+                {
+                    "name": "Data Analysis",
+                    "rating": 4,
+                    "versions": [],
+                    "verified_skill_level": "intermediate"
+                },
+                {
+                    "name": "Literature Review",
+                    "rating": 4,
+                    "versions": [],
+                    "verified_skill_level": "intermediate"
+                }
+            ],
+            "ctc": null
+        },
+        {
+            "work_experience_id": null,
+            "job_title": "Volunteer",
+            "employer": "Innovate Hub",
+            "location": "Delhi, India",
+            "start_month": 1,
+            "start_year": 2022,
+            "end_month": 5,
+            "end_year": 2022,
+            "currently_working": false,
+            "employment_type": "part_time",
+            "work_description": "- Assisted members with their projects by providing guidance and support, fostering a collaborative environment.  \n\n- Taught workshops on 3D printing and basic electronics, enhancing members' skills and improving community engagement with technology.  \n\n- Helped maintain equipment, ensuring optimal functionality and availability for all users.",
+            "work_accomplishment": "Facilitated workshops that improved community engagement with technology and enhanced members' skills in 3D printing.",
+            "work_skills": [
+                {
+                    "name": "3D Printing",
+                    "rating": 4,
+                    "versions": [],
+                    "verified_skill_level": "intermediate"
+                },
+                {
+                    "name": "Electronics",
+                    "rating": 4,
+                    "versions": [],
+                    "verified_skill_level": "intermediate"
+                }
+            ],
+            "ctc": null
+        },
+        {
+            "work_experience_id": null,
+            "job_title": "Intern",
+            "employer": "GreenTech Solutions",
+            "location": "Remote",
+            "start_month": 6,
+            "start_year": 2023,
+            "end_month": 8,
+            "end_year": 2023,
+            "currently_working": false,
+            "employment_type": "internship",
+            "work_description": "- Contributed to research aimed at improving the efficiency of perovskite solar cell technology, enhancing the understanding of renewable energy technologies.\n\n- Developed simulations for battery management systems using MATLAB, gaining practical experience in solar energy systems.",
+            "work_accomplishment": "Enhanced understanding of renewable energy technologies and gained practical experience in solar energy systems.",
+            "work_skills": [
+                {
+                    "name": "MATLAB",
+                    "rating": 4,
+                    "versions": [],
+                    "verified_skill_level": "intermediate"
+                },
+                {
+                    "name": "Renewable Energy Technologies",
+                    "rating": 4,
+                    "versions": [],
+                    "verified_skill_level": "intermediate"
+                }
+            ],
+            "ctc": null
+        }
+    ],
+    "projects": [
+        {
+            "title": "Miniature Wind Turbine",
+            "description": "- Designed and fabricated a miniature wind turbine for the National Renewable Energy Design Challenge, emphasizing optimization of blade design for maximum efficiency.  \n\n- Utilized CFD simulations and conducted wind tunnel testing to evaluate and enhance turbine performance.",
+            "start_month": 1,
+            "start_year": 2021,
+            "end_month": 5,
+            "end_year": 2021,
+            "is_in_progress": false
+        },
+        {
+            "title": "Design for X Challenge",
+            "description": "- Participated in the Design for X Challenge organized by Mahindra & Mahindra, focusing on the development of an efficient and ergonomic seating system for electric vehicles.  \n\n- Analyzed factors such as posture, comfort, and material sustainability to create a design that meets the specific needs of electric vehicle users.  \n\n- Collaborated with team members to ensure the design aligns with industry standards and user expectations.",
+            "start_month": 1,
+            "start_year": 2022,
+            "end_month": 5,
+            "end_year": 2022,
+            "is_in_progress": false
+        },
+        {
+            "title": "Hexapod Robot",
+            "description": "- Constructed a small hexapod robot utilizing an Arduino Mega for control, ensuring effective integration of various sensors for enhanced navigation and obstacle avoidance.\n\n- Implemented sensor systems that facilitated real-time navigation adjustments, improving the robot's ability to avoid obstacles during operation.",
+            "start_month": 1,
+            "start_year": 2023,
+            "end_month": null,
+            "end_year": null,
+            "is_in_progress": true
+        },
+        {
+            "title": "Solar-Powered Irrigation System",
+            "description": "- Designed a solar-powered irrigation system for a local farm, emphasizing sustainability and efficiency within a community outreach program.\n\n- Collaborated with community members to ensure the system met local agricultural needs and environmental standards.\n\n- Implemented innovative solutions to enhance water conservation and optimize resource usage in agricultural practices.",
+            "start_month": 1,
+            "start_year": 2022,
+            "end_month": 3,
+            "end_year": 2022,
+            "is_in_progress": false
+        }
+    ],
+    "skills": [
+        {
+            "name": "SolidWorks",
+            "rating": 4,
+            "versions": [],
+            "verified_skill_level": "intermediate"
+        },
+        {
+            "name": "AutoCAD",
+            "rating": 4,
+            "versions": [],
+            "verified_skill_level": "intermediate"
+        },
+        {
+            "name": "Python",
+            "rating": 4,
+            "versions": [],
+            "verified_skill_level": "intermediate"
+        },
+        {
+            "name": "C++",
+            "rating": 3,
+            "versions": [],
+            "verified_skill_level": "beginner"
+        },
+        {
+            "name": "Problem Solving",
+            "rating": 5,
+            "versions": [],
+            "verified_skill_level": null
+        },
+        {
+            "name": "Teamwork",
+            "rating": 5,
+            "versions": [],
+            "verified_skill_level": null
+        },
+        {
+            "name": "Communication",
+            "rating": 5,
+            "versions": [],
+            "verified_skill_level": null
+        }
+    ],
+    "preferences": {
+        "job_positions": [
+            "Renewable Energy Engineer",
+            "Energy Efficiency Consultant",
+            "Mechatronics Engineer",
+            "Control Systems Engineer",
+            "Solar Energy Engineer",
+            "Robotics Engineer"
+        ],
+        "professions": [
+            "Research",
+            "Product Design",
+            "Engineering"
+        ],
+        "industry": [
+            "Mechanical Engineering",
+            "Robotics",
+            "Renewable Energy"
+        ],
+        "job_location": [
+            {
+                "location_name": "India"
+            }
+        ],
+        "job_type": "permanent",
+        "workplace_type": "open_to_any",
+        "expected_start_salary": 600000,
+        "expected_end_salary": 800000,
+        "currency": "INR",
+        "open_to_any_location": true,
+        "immediate_joining": false
+    },
+    "achievements": [
+        {
+            "title": "Merit Scholarship",
+            "description": "Received a merit scholarship in the second year for academic performance."
+        },
+        {
+            "title": "Dean's List",
+            "description": "Achieved Dean's List recognition for two consecutive semesters."
+        },
+        {
+            "title": "Best Project Award",
+            "description": "Won the 'Best Project' award at the college's annual tech fest for the wind turbine project."
+        }
+    ],
+    "educations": [
+        {
+            "college_name": "Indian Institute of Technology (IIT) Delhi",
+            "degree": "Bachelor of Technology",
+            "stream": "Mechanical Engineering",
+            "diploma_board": null,
+            "course": null,
+            "enrollment_no": null,
+            "start_month": 8,
+            "start_year": 2019,
+            "end_month": 5,
+            "end_year": 2024,
+            "currently_attending": true,
+            "performance_scale": "gpa",
+            "performance": 8.8,
+            "skills": [
+                {
+                    "name": "Mechanical Engineering Principles",
+                    "rating": 4,
+                    "versions": [],
+                    "verified_skill_level": "intermediate"
+                }
+            ],
+            "achievements": null,
+            "specialization": null,
+            "minor_specialization": null
+        }
+    ],
+    "gap_education": {
+        "gap_reason": null,
+        "gap_duration": null
+    },
+    "key_takeaways": [
+        "The student has a strong academic background in Mechanical Engineering from IIT Delhi, currently in their final year.",
+        "The student has worked on multiple projects, including a miniature wind turbine and a hexapod robot, showcasing their interest in sustainable energy and robotics.",
+        "The student has developed skills in CAD software, Python, and C++, and has strong problem-solving, teamwork, and communication abilities.",
+        "The student has not completed a formal internship but has gained practical experience through volunteering and research assistant roles.",
+        "The student has received notable achievements, including a merit scholarship, Dean's List recognition, and a 'Best Project' award.",
+        "The avatar suggested that the student explore roles like Robotics Engineer and Renewable Energy Engineer, and consider pursuing a Master's degree to enhance career prospects.",
+        "The avatar emphasized the importance of highlighting project work and relevant skills on the resume to compensate for the lack of formal internships."
+    ],
+    "next_steps": [
+        "You should consider obtaining the Certified Robotics Technician (CRT) certification, which costs around $500 and takes approximately 3 months to prepare. Additionally, look into the Renewable Energy Professional (REP) certification, which costs about $600 and requires a similar preparation time.",
+        "Explore online courses such as \"Robotics: Aerial Robotics\" on Coursera and \"Renewable Energy and Green Building Entrepreneurship\" on edX, both of which can be completed in 4-6 weeks.",
+        "Consider enrolling in a professional training program like the Robotics Bootcamp offered by General Assembly, which runs for 12 weeks and costs around $3,950.",
+        "You should look for the IEEE International Conference on Robotics and Automation in May 2024 in Paris, France, and consider presenting your work on advanced composite materials or renewable energy systems.",
+        "Explore publication opportunities in journals like the \"Journal of Renewable and Sustainable Energy\" and \"IEEE Transactions on Robotics,\" with submission deadlines typically in the spring and fall.",
+        "Consider presenting a paper on \"Innovative Applications of 3D Printing in Renewable Energy Systems,\" which aligns with current industry trends.",
+        "You should try converting your project on the \"Solar-Powered Irrigation System\" into a research paper by focusing on its impact on sustainability and community engagement.",
+        "You should optimize your LinkedIn profile by including a professional photo, a compelling summary highlighting your skills in mechanical engineering and renewable energy, and detailed descriptions of your projects and experiences. Engage with posts related to your field to increase visibility.",
+        "Join industry communities such as the IEEE Robotics and Automation Society and the Renewable Energy Association. Follow notable figures like Elon Musk and Dr. Ayanna Howard for insights and networking opportunities.",
+        "Consider attending local meetups like the \"Delhi Robotics Meetup\" or \"Renewable Energy Networking Group\" to connect with professionals in your area.",
+        "You should consider developing a project titled \"Smart Energy Management System,\" which integrates IoT for monitoring energy consumption. The tech stack could include Arduino, Raspberry Pi, and cloud services like AWS. Learning outcomes would include IoT integration and data analytics skills, with a unique selling proposition (USP) of real-time energy monitoring for households.",
+        "Another project could be \"Automated Waste Sorting System,\" utilizing machine learning for waste classification. The tech stack would involve Python, TensorFlow, and Raspberry Pi. This project would enhance your skills in AI and robotics, with a USP of promoting sustainability through automated recycling.",
+        "Explore open-source contribution opportunities by joining projects like Open Source Ecology, which focuses on sustainable technologies, or contribute to the Arduino community by developing libraries or documentation.",
+        "You should prioritize learning advanced Python and C++ for robotics applications. Resources like \"Python for Data Science\" on Coursera and \"C++ for Programmers\" on Udemy can be completed in 4-6 weeks each.",
+        "Consider developing soft skills such as leadership and negotiation through online courses on platforms like LinkedIn Learning, which are crucial for career advancement in engineering.",
+        "Set a timeline of 3 months to complete these technical courses and an additional month for soft skills development.",
+        "You should target job roles such as Robotics Engineer, Renewable Energy Engineer, and Mechanical Design Engineer. Each role typically requires skills in embedded systems, data analysis, and CAD software.",
+        "Stay updated with current industry standards by reviewing job descriptions on platforms like Glassdoor and Indeed, focusing on required skills and technologies.",
+        "Utilize platforms like LeetCode and HackerRank for technical interview preparation, focusing on coding challenges relevant to your target roles.",
+        "When presenting your portfolio, consider using a digital format like a personal website or GitHub repository to showcase your projects, skills, and achievements effectively.",
+        "For Month 1, set weekly goals to complete the online courses in Python and C++, and finalize your resume and LinkedIn profile by the end of the month.",
+        "In Months 2-3, aim to complete the CRT certification and submit a paper for publication while continuing to network through local meetups and online communities.",
+        "You should focus on quantifying your achievements in your resume, such as specifying the percentage increase in efficiency from your projects.",
+        "Consider pursuing a Master's degree in Robotics or Renewable Energy for specialization, which can enhance your career prospects.",
+        "Explore internships or co-op programs to gain industry experience, which will provide practical knowledge and networking opportunities in your field."
+    ]
+}
